@@ -1,0 +1,82 @@
+PODS:
+  - Alamofire (5.9.1)
+  - Differentiator (5.0.0)
+  - "NSObject+Rx (5.2.2)":
+    - RxSwift (~> 6.2)
+  - Reusable (4.1.2):
+    - Reusable/Storyboard (= 4.1.2)
+    - Reusable/View (= 4.1.2)
+  - Reusable/Storyboard (4.1.2)
+  - Reusable/View (4.1.2)
+  - RxCocoa (6.7.0):
+    - RxRelay (= 6.7.0)
+    - RxSwift (= 6.7.0)
+  - RxCombine (2.0.1):
+    - RxRelay (~> 6)
+    - RxSwift (~> 6)
+  - RxDataSources (5.0.0):
+    - Differentiator (~> 5.0)
+    - RxCocoa (~> 6.0)
+    - RxSwift (~> 6.0)
+  - RxGesture (4.0.4):
+    - RxCocoa (~> 6.0)
+    - RxSwift (~> 6.0)
+  - RxRelay (6.7.0):
+    - RxSwift (= 6.7.0)
+  - RxSwift (6.7.0)
+  - RxSwiftExt (6.2.1):
+    - RxSwiftExt/Core (= 6.2.1)
+    - RxSwiftExt/RxCocoa (= 6.2.1)
+  - RxSwiftExt/Core (6.2.1):
+    - RxSwift (~> 6.0)
+  - RxSwiftExt/RxCocoa (6.2.1):
+    - RxCocoa (~> 6.0)
+    - RxSwiftExt/Core
+  - SnapKit (5.7.1)
+  - SwiftGen (6.6.3)
+
+DEPENDENCIES:
+  - Alamofire
+  - "NSObject+Rx"
+  - Reusable
+  - RxCombine
+  - RxDataSources
+  - RxGesture
+  - RxSwiftExt
+  - SnapKit
+  - SwiftGen
+
+SPEC REPOS:
+  trunk:
+    - Alamofire
+    - Differentiator
+    - "NSObject+Rx"
+    - Reusable
+    - RxCocoa
+    - RxCombine
+    - RxDataSources
+    - RxGesture
+    - RxRelay
+    - RxSwift
+    - RxSwiftExt
+    - SnapKit
+    - SwiftGen
+
+SPEC CHECKSUMS:
+  Alamofire: f36a35757af4587d8e4f4bfa223ad10be2422b8c
+  Differentiator: e8497ceab83c1b10ca233716d547b9af21b9344d
+  "NSObject+Rx": 61cf1f7306a73dcef8b36649198af0813ec18dfd
+  Reusable: 6bae6a5e8aa793c9c441db0213c863a64bce9136
+  RxCocoa: fb0aefb9e7229c8ab057acde714136d19117f102
+  RxCombine: 74cd98f7bb1d908eff3758d13651917fc296adb3
+  RxDataSources: aa47cc1ed6c500fa0dfecac5c979b723542d79cf
+  RxGesture: f3efb47ed2d26a8082f7b660d4a59970e275a7f8
+  RxRelay: 5d39f4d8da150ad47a71b9ce11915e3eae2a8f4d
+  RxSwift: 6ee35684dc3f7a63938758f4b7708199517dfa97
+  RxSwiftExt: 43aaacb6a4d3c69c55e9d1cf4f79920043d13583
+  SnapKit: d612e99e678a2d3b95bf60b0705ed0a35c03484a
+  SwiftGen: 4993cbf71cbc4886f775e26f8d5c3a1188ec9f99
+
+PODFILE CHECKSUM: 6f1b44c886146ae8acff2d0d1ded2746408e7b21
+
+COCOAPODS: 1.15.2

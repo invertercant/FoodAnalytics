@@ -1,0 +1,18 @@
+input_dir: EatingApp/Resources
+output_dir: EatingApp/CodeGeneration
+strings:
+  inputs: en.lproj
+  outputs:
+    - templatePath: EatingApp/CodeGeneration/Templates/izi-strings-template.stencil
+      output: Generated/AppStrings.swift
+      params:
+        enumName: AppStrings
+        noComments: true
+        bundle: Bundle.main
+xcassets:
+  - inputs: Images.xcassets
+    outputs:
+      templateName: swift5
+      output: AppImages.swift
+      params:
+        enumName: AppImages

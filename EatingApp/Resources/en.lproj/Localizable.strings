@@ -1,0 +1,10 @@
+/* 
+  Localizable.strings
+  EatingApp
+
+  Created by Александр Савченко on 20.09.2024.
+  
+*/
+
+"errors_server_error" = "Server error";
+"main_title" = "Breakfast";
